@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textColor">#FFFFFF</item>  <!-- Color del texto -->
+        <item name="android:textSize">18sp</item>     <!-- Tamaño del texto -->
+        <item name="android:background">#3F51B5</item> <!-- Color de fondo -->
+        <item name="android:layout_marginStart">32dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:layout_marginEnd">32dp</item>
+    </style>
+</resources>

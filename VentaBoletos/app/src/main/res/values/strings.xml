@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VentaBoletos</string>
+    <string name="select">Origen</string>
+    <string name="selects">Destino</string>
+</resources>
